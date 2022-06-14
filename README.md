@@ -7,4 +7,4 @@ A Chinese chess AI based on alpha-beta pruning
 
 Environment: credit to https://github.com/tanliyon/gym-xiangqi
 
-Failed to develop CNN and MCTS successfully
+Fail to develop CNN and MCTS successfully
